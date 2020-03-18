@@ -1,0 +1,75 @@
+The commands you used to get the solution (hint: run history for a list of the commands you ran).
+
+	701  grep CLUE *
+  702  ls
+  703  cat people
+  704  ls
+  705  grep -r CLUE *
+  706  cd ..
+  707  ls
+  708  cat instructions
+  709  ls
+  710  cd mystery
+  711  ls
+  712  ls
+  713  cd memberships
+  714  ls
+  715  cat AAA
+  716  ls
+  717  cd ..
+  718  ls
+  719  cd streets
+  720  ls
+  721  ls
+  722  cd ..
+  723  ls
+  724  ls
+  725  grep -r CLUE *
+  726  grep -r ANNABEL *
+  727  grep -r Annabel *
+  728  grep -r * Annabel Church
+  729  ls
+  730  cd interviews
+  731  ls
+  732  cd ..
+  733  grep -r * Church
+  734  ls
+  735  grep -r Church *
+  736  cd interviews
+  737  cat interview-699607
+  738  grep -r L337 *
+  739  ;s
+  740  ls
+  741  cd ..
+  742  grep -r L337 *
+  743  cd vehicles
+  744  ls
+  745  cat vehicles
+  746  grep -r L337 *
+  747  grep -A 10 L337*
+  748  grep -A 10 L337 *
+  749  grep -A 5 L337 *
+  750  grep -r Jacqui *
+  751  grep -r Maher *
+  752  grep -r Bostock *
+  753  grep -r Germuska *
+  754  grep -r * Germuska
+  755  gre -r Germuska *
+  756  grep -r Germuska *
+  757  grep -r Bowers *
+  758  ls
+  759  cd streets
+  760  ls
+  761  cat Dunstable_Road
+  762  cd ..
+  763  ls
+  764  cd ..
+  765  ls
+  766  cd ..
+  767  ls
+  768  cd command-line-murder-mystery
+
+
+The name of the killer.
+
+Jeremy Bowers
